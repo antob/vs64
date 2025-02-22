@@ -9,7 +9,6 @@ node_modules
 build
 dist
 *~
-*.vsix
 examples/**/settings.json
 examples/**/c_cpp_properties.json
 test/temp
