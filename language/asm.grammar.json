@@ -44,12 +44,6 @@
 		"generic-comments": {
 			"patterns": [
 				{
-					"name": "comment.line.semicolon",
-					"begin": ";",
-					"end": "$",
-					"comment": "Single line comment"
-				},
-				{
 					"name": "comment.line.double-slash",
 					"begin": "//",
 					"end": "$",
